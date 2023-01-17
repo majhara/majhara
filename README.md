@@ -1,5 +1,6 @@
-<h1 align="center"> Olá, sou a @dentista.dev</h1>
 
+<h1 align="center"> Olá, sou a @dentista.dev</h1>
+<p align="middle"><img src="https://github.com/majhara/majhara/blob/main/femalecodertocat500x500.png"></p>
 <h2> Sobre mim </h2>
 <li> Tenho 27 anos </li>
 <li> Sou mãe de um bulldog frances chamado Frederico </li>
@@ -9,7 +10,6 @@
 <li> Tenho 4 graus de Astigmatismo </li>
 <br>
 <br>
-<br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majhara&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=majhara&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
